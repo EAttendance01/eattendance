@@ -1,6 +1,6 @@
 <html>
 <body>
-<?php
+<?ph
 
 class Attendance
 {
